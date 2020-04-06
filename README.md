@@ -1,8 +1,7 @@
-# Deployment of ML models in Heroku using FLASK
+# Clustering and Deployment of ML model in Heroku using FLASK
 
-Датасет — результат кластеризации.
-В модели используется Линейная регрессия (LinearRegression) из Sklearn.
-Полученный результат сохраняется в pickle-файл.
-Дальше, в форме вводятся входные данные, затем происходит обращение к модели, и номер предполагаемого сегмента (результат) отображается на странице.
+cluster.py — clustering and separation segments into separate files.
+
+Dataset — result of clustering. In model used LinearRegression from Sklearn. Result saver in pickle-file. Then, the customer data is indicated in the form and at the output we get the intended segment.
 
 ### https://vacancy36119747-task3.herokuapp.com
