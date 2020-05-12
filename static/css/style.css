@@ -33,7 +33,7 @@ a:hover {
 
 
 .btn {
-	margin-left: 10%;
+	margin-left: 25%;
 	background: transparent;
 	color: inherit;
 	font: inherit;
@@ -62,8 +62,8 @@ a:hover {
 
 
 .form__field {
-	width: 80%;
-	margin-left: 10%;
+	width: 50%;
+	margin-left: 25%;
 	margin-bottom: 10px	;
 	background: #fff;
 	color: #111111;
@@ -78,4 +78,16 @@ a:hover {
 	text-align: center;
 	color: #111111;
 	font-size: 20px;
+}
+
+.description {
+	font-size: 14px;
+	width: 51%;
+	text-align: justify;
+	margin-left: 25%;
+}
+
+h3 {
+	margin-block-start: 0;
+	margin-block-end: 2px;
 }
